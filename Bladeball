@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/sriptlea/Bypass-Bladeball/main/Bypass")))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/sriptlea/Bypass-Bladeball/main/Bypass"))()
